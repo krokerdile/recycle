@@ -1,6 +1,5 @@
-![Group 174](https://github.com/sgdevcamp2023/recycle/assets/102807742/39e2f2d2-02b5-4da1-bed2-b4ddb3fb8629)
+# RECYCLE-ZZUAG<img width="392" alt="스크린샷 2024-02-22 오후 10 39 47" src="https://github.com/krokerdile/recycle/assets/39644976/cca202a8-3ca5-4907-9e63-435e6a740ea3">
 
-# RECYCLE-ZZUAG
 
 ## 소개
 마크다운 에디터와 라인코멘트를 통한 가장 쉬운 코드리뷰 공간을 제공합니다
