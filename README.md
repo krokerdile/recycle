@@ -1,6 +1,5 @@
 
-# RECYCLE-ZZUAG<img width="392" alt="스크린샷 2024-02-22 오후 10 39 47" src="https://github.com/krokerdile/recycle/assets/39644976/596f8469-6751-4400-be77-264836c559f5">
-
+# RECYCLE-ZZAUG
 
 ## 소개
 마크다운 에디터와 라인코멘트를 통한 가장 쉬운 코드리뷰 공간을 제공합니다
